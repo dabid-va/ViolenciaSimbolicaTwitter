@@ -16,7 +16,7 @@
 
 
 # Introduccion
-El planteamiento del problema consiste en crear un clasificador, que me identifica si un tweet tiene violencia simbolica, es decir si es racista o sexista. el desarrollo del proyecto tendra las siguientes fases:
+El planteamiento del problema consiste en crear un clasificador, que me identifica si un tweet tiene violencia simbólica, es decir si es racista o sexista. el desarrollo del proyecto tendra las siguientes fases:
 
 <ul>
    <li> planteamiento del problema.
