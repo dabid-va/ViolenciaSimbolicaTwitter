@@ -1,4 +1,4 @@
-<p align="center"><img src="/home/dabidva/ViolenciaSimbolicaTwitter/data/una.jpeg" width="1500" heigth="500"></p>
+<p align="center"><img src="https://cdn.coincrispy.com/wp-content/uploads/2018/08/performing-twitter-sentiment-analysis1-696x410.jpeg" width="1500" heigth="500"></p>
 
 
 # Clasificador de tweets.
