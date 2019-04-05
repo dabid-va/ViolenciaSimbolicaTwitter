@@ -37,9 +37,4 @@ El dataset se encuentra en la siguiente direccion https://datahack.analyticsvidh
 
 
 
-=======
-## ViolenciaSimbolicaTwitter
-### Proyec2to de INteligencia Artificial 2018-2
-![poster]("https://cdn.coincrispy.com/wp-content/uploads/2018/08/performing-twitter-sentiment-analysis1-696x410.jpegg")
-#### Integrantes: Alejandro ramirez
->>>>>>> 6d602adfd355233d96b09165136d07910252b421
+
