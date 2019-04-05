@@ -29,11 +29,12 @@ El planteamiento del problema consiste en crear un clasificador, que me identifi
 
 
 # Objetivo
--identificar tweets.<br> 
--Aprender acerca de los Modelos de DeepLearning, más especificamente los que ofrece la Librería Keras usando TensorFlow como backend.
+ -Identificar tweets con violencia simbólica.<br> 
+ 
+
 
 # Referencias
-El dataset se encuentra en la siguiente direccion https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/.
+El dataset fue descargado de la siguiente dirección https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/.
 
 
 
